@@ -22,7 +22,7 @@ esbuild-register@^1.2.1:
     source-map-support "^0.5.19"
     strip-json-comments "^3.1.1"
 
-esbuild@^0.8.31:
+esbuild@^0.8.10:
   version "0.8.31"
   resolved "https://registry.yarnpkg.com/esbuild/-/esbuild-0.8.31.tgz#c21e7adb3ad283c951a53de7ad64a5ae2df2ed34"
   integrity sha512-7EIU0VdUxltwivjVezX3HgeNzeIVR1snkrAo57WdUnuBMykdzin5rTrxwCDM6xQqj0RL/HjOEm3wFr2ijHKeaA==
