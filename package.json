@@ -1,0 +1,18 @@
+{
+    "name": "esbuild-inject-fails-on-existing-gloabl-variables",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "build": "node -r esbuild-register build.ts"
+    },
+    "repository": "https://github.com/remorses/esbuild-inject-fails-on-existing-gloabl-variables.git",
+    "author": "remorses <beats.by.morse@gmail.com>",
+    "license": "MIT",
+    "dependencies": {
+        "esbuild": "^0.8.31"
+    },
+    "devDependencies": {
+        "@types/node": "^14.14.20",
+        "esbuild-register": "^1.2.1"
+    }
+}
